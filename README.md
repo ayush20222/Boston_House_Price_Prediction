@@ -6,7 +6,11 @@ Predicting housing prices is a fundamental challenge in real estate and finance.
 Key Features:
 
 Machine Learning Models: We employ both linear regression and random forest regression to model housing price predictions, providing a robust basis for analysis.
+
 Data Exploration: In-depth exploration of the dataset using statistical analysis and data visualization techniques to uncover valuable insights and feature relationships.
+
 Model Evaluation: Evaluation of model performance with metrics such as Mean Squared Error, Mean Absolute Error, and R-squared to assess predictive accuracy.
+
 Data Preprocessing: Appropriate data preprocessing techniques to prepare the dataset for modeling.
+
 Scalable and Informative: The project showcases how machine learning can be used to provide actionable insights for real estate professionals and potential homebuyers.
